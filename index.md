@@ -1,3 +1,8 @@
+---
+layout: default
+title: main page
+---
+
 # heading
 
 leave blank lines btw paragraphs, tables, lists, etc.
