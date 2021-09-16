@@ -1,7 +1,7 @@
 # heading
 
 leave blank lines btw paragraphs, tables, lists, etc.
-start sentances on new lines
+start sentences on new lines
 if you want to break a line, leave two blank spaces at the end  
 if you want a new line, which hopefully this is.
 
@@ -14,3 +14,8 @@ if you want a new line, which hopefully this is.
 course website found here [text to click on](https://gis4dev.github.io)
 
 *italics* **bold**
+
+first column | second column | third column |
+:------| :---------: | ---------:|
+left align | center align | right align
+new row | | blank center
