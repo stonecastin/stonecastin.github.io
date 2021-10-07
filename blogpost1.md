@@ -1,6 +1,6 @@
 ---
 layout: page
-title: blog post 2
+title: blog post 1
 ---
 
 Coding has always seemed unattainable to me.
@@ -12,5 +12,3 @@ Interacting with a computer is coding, just with a high level of abstraction.
 As an open source project, that is something I can do, even knowing so little about the coding language the commands are formulated in.
 The higher the level of abstration, the more assumptions are baked into the outputs.
 Being able to go down a few levels in abstraction would enable me to see what those underlying assumptiions are, and in the case of an open source project like QGIS, I could even change them to suit my needs.
-
-<p align="center"><a href="https://stonecastin.github.io">back to main</a></p>
