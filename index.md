@@ -28,5 +28,5 @@ new row | | blank center
 ## blog posts
 
 1. [Open GIScience](open-giscience.md)
-2. [blog post 1] (_layouts.page.md)
-3. [blog post 2] (_layouts.blogpost2.md)
+2. [blog post 1](blogpost1.md)
+3. [blog post 2](blogpost2.md)
