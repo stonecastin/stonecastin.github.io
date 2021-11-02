@@ -3,30 +3,11 @@ layout: default
 title: main page
 ---
 
-# heading
-
-leave blank lines btw paragraphs, tables, lists, etc.
-start sentences on new lines
-if you want to break a line, leave two blank spaces at the end  
-if you want a new line, which hopefully this is.
-
-- bullet list first bullet
-- second point
-
-1. numbered item
-2. second item
-
-course website found here [text to click on](https://gis4dev.github.io)
-
-*italics* **bold**
-
-first column | second column | third column |
-:------| :---------: | ---------:|
-left align | center align | right align
-new row | | blank center
+Blog dedicated to work in Open Source GIScience with Profesor Holler.
 
 ## blog posts
 
-1. [Open GIScience](open-giscience.md)
-2. [blog post 1](blogpost1.md)
-3. [blog post 2](blogpost2.md)
+1. [blog post 1](blogpost1.md)
+2. [blog post 2](blogpost2.md)
+3. [Blog post 3](blogpost3.md)
+4. [Blog post 4](blogpost4.md)
