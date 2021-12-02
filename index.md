@@ -1,16 +1,24 @@
 ---
 layout: default
-title: main page
+title: GIS with Castin Stone
 ---
 
-Blog dedicated to work in Open Source GIScience with Profesor Holler.
+A blog dedicated to my work in Open Source GIScience with Professor Holler.
+This blog cronicles my understanding of course materials and work with R, python, GEOpandas, SQL, and Jyptr notebook.
 
 ## blog posts
 
-1. [blog post 1](blogpost1.md)
-2. [blog post 2](blogpost2.md)
-3. [Blog post 3](blogpost3.md)
-4. [Blog post 4](blogpost4.md)
-5. [Blog post 5](blogpost5.md)
-6. [Blog post 6](blogpost6.md)
-7. [Blog post 7](blogpost7.md)
+1. [What is Open Source GIScience?](blogpost1.md)
+2. [Reproducibility and Replicability](blogpost2.md)
+3. [Error and Uncertainty](blogpost3.md)
+4. [Coding a Thesis](blogpost4.md)
+5. [CyberGISX](gisx.md)
+6. [Answering Questions with SQL and OpenStreetMap](daressalaamblogpost.md)
+7. [Volunteered Geographic Information](vgiblogpost.md)
+
+##GIS reports
+
+1. [Ambulance Access in Dar Es Salaam, Tanzania](blogpost5.md)
+2. [Reproducing and Replicating Kang et al. 20findyear](blogpost7.md)
+3. [Reflection on Malcolm et al 20findyear](blogpost6.md)
+4. [Analysis of Twitter Activity around Hurricane Ida](idablogpost.md)
