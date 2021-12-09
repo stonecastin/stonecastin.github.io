@@ -4,7 +4,7 @@ title: GIS with Castin Stone
 ---
 
 A blog dedicated to my work in Open Source GIScience with Professor Holler.
-This blog cronicles my understanding of course materials and work with R, python, GEOpandas, SQL, and Jyptr notebook.
+This blog chronicles my understanding of course materials and work with R, python, GEOpandas, SQL, and Jyptr notebook.
 
 ## blog posts
 
@@ -15,6 +15,7 @@ This blog cronicles my understanding of course materials and work with R, python
 5. [CyberGISX](gisx.md)
 6. [Answering Questions with SQL and OpenStreetMap](daressalaamblogpost.md)
 7. [Volunteered Geographic Information](vgiblogpost.md)
+8. [COVID Risk Reproduction](riskrepro.md)
 
 ##GIS reports
 
