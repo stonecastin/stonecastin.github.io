@@ -1,6 +1,6 @@
 ---
 layout: page
-title: blog post 4
+title: Coding a Thesis
 ---
 
 Recently I used SQL code to organize and format the data involved with my water quality thesis.

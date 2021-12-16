@@ -23,3 +23,4 @@ This blog chronicles my understanding of course materials and work with R, pytho
 2. [Reproducing and Replicating Kang et al. 20findyear](blogpost7.md)
 3. [Reflection on Malcolm et al 20findyear](blogpost6.md)
 4. [Analysis of Twitter Activity around Hurricane Ida](idablogpost.md)
+5. [Reformatting Chezik et al (2017)](Chezik.md)
