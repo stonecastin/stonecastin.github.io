@@ -16,7 +16,7 @@ Raster representation of the average temperature in Costa Rica.
 
 Raster representation of the average precipitation in Costa Rica.
 
-![Weathering Coefficient](costaricaweatheringcoeffgrid.pdf "Weathering Coefficient")
+![Weathering Coefficient](costaricaweatheringcoeffgrid.png "Weathering Coefficient")
 
 Weathering coefficient determined by Prof. Ryan's experience of weathering rates for different sections of the country.
-To produce this map, the yearly averages for precipitation and tennperature were normalized, then multiplied. 
+To produce this map, the yearly averages for precipitation and tennperature were normalized, then multiplied.
