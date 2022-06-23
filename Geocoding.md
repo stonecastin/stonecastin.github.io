@@ -11,7 +11,7 @@ To do this, I learned how to georefrence a TIFF in QGIS.
 
 Here is the FEMA Firmette for Northern Starksboro overlaid with the corresponding satelite image.
 
-![Floodzone with actual and projected course of stream](assets/lazybrookFEMAfloodzone.png "Lazy Brook FEMA Floodzone")
+![Floodzone with actual and projected course of stream](assets/laztbrookFEMAfloodzone.png "Lazy Brook FEMA Floodzone")
 
 Confirmed by a site visit, the course of the brook does not match up with FEMA projections.
 The brook and floodzone have shifted since FEMA originally mapped this area in 1985.
