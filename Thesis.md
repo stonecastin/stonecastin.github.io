@@ -3,7 +3,7 @@ layout: page
 title: Thesis
 ---
 
-The full text of my thesis can be found [here](https://github.com/stonecastin/River-Watch-Thesis-Work/blob/main/thesispoliaheddraft.docx), SQL code [here](https://github.com/stonecastin/River-Watch-Thesis-Work/blob/main/datamanipsql.sql) and the full R analysis [here](https://github.com/stonecastin/River-Watch-Thesis-Work/blob/main/plotting.Rmd).
+The full text of my thesis can be found [here](https://drive.google.com/file/d/1BminXghnU62l3Ar86omhs6VexdQIHkmY/view?usp=sharing), SQL code [here](https://github.com/stonecastin/River-Watch-Thesis-Work/blob/main/datamanipsql.sql) and the full R analysis [here](https://github.com/stonecastin/River-Watch-Thesis-Work/blob/main/plotting.Rmd).
 
 Water quality monitoring is an essential component of watershed health.
 In order to monitor effectively, organizations such as River Watch of Addison County, Vermont, are constantly adapting best practices for which variables to monitor and when.
