@@ -18,4 +18,4 @@ A portfolio of my work with QGIS, R, and SQL.
 4. [Geocoding: digitizing FEMA flood firmettes](Geocoding.md)
 
 
-5. [Classwork in Open Source GIScience: twitter data, jyptr notebook, SQL, and GitHub](ClassworkinopensourceGIScience.md)
+5. [Classwork in Open Source GIScience: twitter data, jyptr notebook, SQL, and GitHub](open-giscience.md)
